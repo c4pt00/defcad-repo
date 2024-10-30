@@ -1,3 +1,5 @@
+does not include internal springs mostly exterior frames
+
 defcad.com
 
 https://defcad.com/library/walther-ppk
