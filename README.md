@@ -8,6 +8,8 @@ https://defcad.com/library/the-big-mac
 
 https://defcad.com/library/xd-940-subcompact-lillith/
 
+https://odysee.com/@philphisher:0/43pp:d
+
 # Notice
 This code is deprecated and all future development has been moved to the [fosscad-repo](https://github.com/maduce/fosscad-repo) repository.
 
